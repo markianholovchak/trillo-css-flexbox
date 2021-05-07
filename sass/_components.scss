@@ -177,8 +177,7 @@
 
 .gallery {
   display: flex;
-  &__item {
-  }
+
   &__photo {
     width: 100%;
     display: block;
@@ -343,8 +342,7 @@
   &__count {
     margin-right: auto;
   }
-  &__friends {
-  }
+
   &__photo {
     box-sizing: content-box;
     height: 4rem;
